@@ -4,7 +4,7 @@
 
 - :boy: **About**: 24 Years old Developer from China.
 - :orange_book: **Focus**: Python, Golang, Linux, Vue.js
-- :hammer: **jobs**: 运维开发工程师
+- :hammer: **jobs**: 全栈开发工程师
 - :basketball: **Hobby**: Basketball, PC-hardware, Open source
 - :seedling: **Blog**: https://notspr.com/
 

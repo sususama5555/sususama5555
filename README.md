@@ -2,9 +2,9 @@
 
 ### HELLO I'm RyanShu. 👋
 
-- :boy: **About**: 25 Years old Developer from China.
-- :orange_book: **Focus**: Python, Golang, Linux, Vue.js
-- :hammer: **jobs**: Full Stack Developer
+- :boy: **About**: Developer from China.
+- :orange_book: **Focus**: Python, Golang, Linux, CloudNative Security
+- :hammer: **jobs**: Backend Developer
 - :basketball: **Hobby**: Basketball, PC-hardware, Open source
-- :seedling: **Blog**: https://notspr.com/
+- :seedling: **Blog**: https://notspr.xyz/
 
